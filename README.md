@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api?username=leagueraini&count_private=true&show_icons=true&hide_title=true&hide_border=true&hide_rank=true">
+<img src="https://i.imgur.com/EbjkRsy.png">
